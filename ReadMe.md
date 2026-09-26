@@ -37,7 +37,6 @@ I build backend infrastructure and the interfaces on top of it — database stru
 
 
 
-
 <img src="assets/divider.svg" width="880" alt="" />
 
 ## Building
