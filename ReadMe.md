@@ -33,6 +33,8 @@ I build backend infrastructure and the interfaces on top of it — database stru
 <img src="assets/stack.svg" width="880" alt="Backend: PHP, Laravel, Ansofra, Node.js, Express, TypeScript, Fastify. Architecture: CQRS, MVC, modular monolith, microservices, dependency injection. Frontend: HTML5, CSS3, Tailwind CSS, JavaScript, React, jQuery, AJAX. Database: MySQL, PostgreSQL, MongoDB, Redis, SQLite. DevOps: Docker, AWS, Git/GitHub, CI/CD, Postman. Protocols: REST APIs, WebSockets, JWT Auth, Prisma." />
 
 <br/>
+
+
 <img src="assets/divider.svg" width="880" alt="" />
 
 ## Building
