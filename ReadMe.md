@@ -92,6 +92,6 @@ The shape the CBT platform takes — the pattern that carries over into the POS 
 <a href="mailto:ekundayoshola129@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email me" /></a>&nbsp;<a href="https://shola.site" target="_blank" rel="noopener noreferrer"><img src="assets/btn-contact.svg" height="40" alt="Portfolio" /></a>
 
 <br/><br/>
-<sub><a href="https://github.com/shola129">github.com/shola129</a> · Lagos, Nigeria</sub>
+<sub><a href="https://github.com/shola129">github.com/shola129</a> · Nigeria</sub>
 
 </div>
