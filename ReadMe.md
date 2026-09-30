@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://shola.site" target="_blank" rel="noopener noreferrer">
-  <img src="assets/hero.svg" width="880" alt="Shola Ekundayo — Software Engineer, Lagos, Nigeria. 3 SaaS platforms shipped, 6 stack categories, building since 2023." />
+  <img src="assets/hero.svg" width="880" alt="Shola Ekundayo — Software Engineer, Nigeria. 3 SaaS platforms shipped, 6 stack categories, building since 2023." />
 </a>
 
 <br/><br/>
